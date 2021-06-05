@@ -1,0 +1,1 @@
+# Predicting-Human-activity-from-smartphone-and-smartwatch-accelerometer-and-gyroscope-sensors-dataset
